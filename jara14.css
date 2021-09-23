@@ -1,0 +1,317 @@
+/*Welcome this work is open source and for the practise of strictly css position Property*/
+#go{
+    float: left;
+    position: absolute;    
+    left: -150px;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 230px;
+    transform: rotate(-90deg);
+    top: 250px;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+
+#touch{
+    position: relative;
+}
+#who{
+    float: left;
+    position: fixed;
+    top: 620px;
+    transform: rotate(-90deg);
+   font-family: sans-serif;
+    font-size: 20px;
+    left: -10px;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+
+h2{
+    clear: both;
+    position: absolute;
+    left: 600px;
+    font-family: sans-serif;
+font-size: 40px;
+font-family: 'Hind Siliguri', sans-serif;
+}
+
+p{
+    position: absolute;
+    left: 750px;
+    top: 180px;
+    font-family: sans-serif;
+    font-size: 16px;
+    line-height: 30px;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+
+#call{
+    left: 600px;
+    top: 300px;
+    position: absolute;
+    transform: rotate(-90deg);
+    font-family: sans-serif;
+    font-size: 14px;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+#more{
+    position: relative;
+}
+
+img{
+    width: 350px;
+    height: 550px;
+    border-radius: 20px;
+}
+
+#clap{
+    box-sizing: border-box;
+border: none;
+width: 350px;
+height: 550px;
+border-radius: 20px;
+position: absolute;
+left: 700px;
+margin-top: 50px;
+}
+
+h3{
+position: absolute;
+left: 500px;
+color: grey;
+font-size: 150px;
+font-family: sans-serif;
+clear: both;
+font-family: 'Hind Siliguri', sans-serif;
+}
+
+#energy{
+    position: absolute;
+    left: 1340px;
+    transform: rotate(-90deg);
+    font-family: sans-serif;
+    font-size: 40px;
+    top: 300px;
+    letter-spacing: 1px;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+
+#sleep{  
+    position: absolute;
+    left: 1300px;
+    transform: rotate(-90deg);
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: 40px;
+    top: 350px;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+
+b:first-of-type{
+    position: absolute;
+    left: 220px;
+    font-family: sans-serif;
+    font-weight: lighter;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+
+#cast{
+    position: absolute;
+    left: 220px;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+
+#side{
+    position: absolute;
+    left: 100px;
+    top: 120px;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+
+#zanku{
+    position: absolute;
+    left: 550px;
+    font-family: sans-serif;
+    font-weight: lighter;
+    top: 120px;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+
+#clap #tap{
+position: absolute;
+top: 0px;
+background: transparent;
+    transition: 5s;
+    width: 350px;
+    height: 550px;
+    border-radius: 20px;
+}
+
+h4{
+position: absolute;
+top: 430px;
+left: 125px;
+color: red;
+font-size: 16px;
+text-align: center;
+font-family: sans-serif;
+font-family: 'Quicksand', sans-serif;
+}
+
+#clap:hover h4{
+    top: 40px;
+    opacity: 1;
+}
+
+
+article{
+    position: absolute;
+top: 30px;
+left: 130px;
+font-size: 16px;
+text-align: center;
+color: white;
+font-family: sans-serif;
+font-family: 'Quicksand', sans-serif;
+}
+
+
+#clap:hover article{
+    top: 400px;
+    opacity: 1;
+}
+
+#clap #tap:hover{  
+    background: rgba(226, 223, 223, 0.932); 
+}
+    
+footer{
+    margin-left: 60px;
+    color: red;
+    font-size: 14px;
+    font-family: 'Quicksand', sans-serif;
+    position: absolute;
+    top: 10px;
+    right: 20px;
+}
+
+    
+#ik{
+    margin-left: 60px;
+    color: red;
+    font-size: 14px;
+    font-family: 'Quicksand', sans-serif;
+    position: absolute;
+    top: 600px;
+    right: 1250px;
+}
+
+i {
+    position: absolute;
+    top: 0px;
+    left: 4px;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+}
+
+#touch .san{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    width: 100%;
+    display: inline-block;
+    color: black;
+    top: 650px;
+    left: 1466px;
+    font-size: 25px;
+    position: fixed;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+
+
+#touch .knd{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    width: 100%;
+    display: inline-block;
+    color: black;
+    top: 530px;
+    left: 1466px;
+    font-size: 25px;
+    position: fixed;
+}
+
+
+#touch .lan{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    width: 100%;
+    display: inline-block;
+    color: black;
+    top: 570px;
+    left: 1466px;
+    font-size: 25px;
+    position: fixed;
+}
+#touch #gbe{
+    font-size: 40px;
+}
+#touch .hand{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    width: 100%;
+    display: inline-block;
+    top: 610px;
+    left: 1466px;
+    font-size: 20px;
+    position: fixed;
+}
+
+
+#touch .soul{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    width: 100%;
+    display: inline-block;
+    color: black;
+    top: 10px;
+    left: 30px;
+    font-size: 30px;
+}
+
+
+#touch .toad{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    width: 100%;
+    display: inline-block;
+    top: 220px;
+    left: 600px;
+    font-size: 20px;
+    transition: ease-in-out top 4s;
+}
+
+#touch .toad:hover{
+    top: 160px;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+
+#rock{
+    font-size: 15px;
+}
+
+

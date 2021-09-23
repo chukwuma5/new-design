@@ -1,4 +1,4 @@
- # Front-end Project
+ # A COPORATE LAYOUT OF A DESIGNED SITE
 
  ## Welcome!
 

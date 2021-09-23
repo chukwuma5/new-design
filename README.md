@@ -11,9 +11,10 @@
 
 ## pictures of this Work
  ##An Example##
-<img src="lay4">
+ 
+<img src="lay1.png">
 
-<img src="lay1">
+<img src="lay4.png">
 
  ##process##
       THIS FILE IS FOR THE PRACTISE OF HTML(DEEPER)
